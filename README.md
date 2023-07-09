@@ -1,5 +1,5 @@
 # NBA Stats Database
-This repository contains Python code for creating and managing a database that stores NBA (National Basketball Association) statistics. The database is populated by utilizing the NBA API to fetch and store relevant data into an SQLite database.
+This repository contains Python code for creating and managing a database that stores NBA (National Basketball Association) statistics. The database is populated by utilizing the NBA API to fetch and store relevant data into an SQLite database. It populates the database by utilizing a nba_api client package that can be found in this repository: https://github.com/swar/nba_api 
 
 # Features
 SQLite Database: The code includes functionality to create and manage an SQLite database, which serves as a centralized storage system for NBA statistics.
